@@ -1,3 +1,3 @@
 # GitHub demo
 
-Starting with gitHub
+Starting with gitHub!
